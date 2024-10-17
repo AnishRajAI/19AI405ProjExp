@@ -81,5 +81,6 @@ else:
 
 ## Output
 <img src="https://github.com/shalinikannan23/19AI405ProjExp/assets/118656529/62586059-839c-47ac-997f-8112c0248759" width=50%>
+
 ## Result
  Thus, a Sudoku solver using the backtracking algorithm is implemented for the given Sudoku puzzle.
